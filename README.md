@@ -1,6 +1,7 @@
 # qmake_gcov
 
-![Travis CI](TravisCI.png)[![Build Status](https://travis-ci.org/richelbilderbeek/qmake_gcov.svg?branch=master)](https://travis-ci.org/richelbilderbeek/qmake_gcov)
+![Travis CI](TravisCI.png)
+[![Build Status](https://travis-ci.org/richelbilderbeek/qmake_gcov.svg?branch=master)](https://travis-ci.org/richelbilderbeek/qmake_gcov)
 
 The goal of this project is to have a clean Travis CI build, with specs:
  * C++ version: `C++98`
