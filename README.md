@@ -15,6 +15,6 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Source: one single file, `main.cpp`
 
 More complex builds:
- * :heavy_minus_sign: C++ version: `C++11`: [cpp11_qmake_gcov](https://www.github.com/richelbilderbeek/cpp11_qmake_gcov)
+ * :heavy_check_mark: C++ version: `C++11`: [cpp11_qmake_gcov](https://www.github.com/richelbilderbeek/cpp11_qmake_gcov)
  * :heavy_minus_sign: Librares: `STL` and `Boost`: [qmake_boost_gcov](https://www.github.com/richelbilderbeek/qmake_boost_gcov)
  * :heavy_check_mark: Source: multiple files: [qmake_gcov_bigger_project](https://www.github.com/richelbilderbeek/qmake_gcov_bigger_project)
