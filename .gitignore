@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+*.gcda
+Makefile
+*.gcov
+*.gcda
+*.gcno
+*qmake_gcov
