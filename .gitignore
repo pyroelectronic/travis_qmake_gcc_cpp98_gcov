@@ -33,3 +33,4 @@ Makefile
 *.gcno
 *qmake_gcov
 *.pro.user
+travis_qmake_gcc_cpp98_gcov
