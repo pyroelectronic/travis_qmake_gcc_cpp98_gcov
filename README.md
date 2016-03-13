@@ -1,8 +1,8 @@
 # qmake_gcov
 
-![Travis CI logo](TravisCI.png)
+[![Travis CI logo](TravisCI.png)](https://www.travis-ci.org)
 ![Whitespace](Whitespace.png)
-![Codecov logo](Codecov.png)
+[![Codecov logo](Codecov.png)](https://www.codecov.io)
 
 [![Build Status](https://travis-ci.org/richelbilderbeek/qmake_gcov.svg?branch=master)](https://travis-ci.org/richelbilderbeek/qmake_gcov)
 [![codecov.io](https://codecov.io/github/richelbilderbeek/qmake_gcov/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/qmake_gcov?branch=master)
