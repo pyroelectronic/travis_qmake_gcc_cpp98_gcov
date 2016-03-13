@@ -1,6 +1,6 @@
 # qmake_gcov
 
-[![Travis CI logo](TravisCI.png)](https://www.travis-ci.org)
+[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ![Whitespace](Whitespace.png)
 [![Codecov logo](Codecov.png)](https://www.codecov.io)
 
