@@ -32,3 +32,4 @@ Makefile
 *.gcda
 *.gcno
 *qmake_gcov
+*.pro.user

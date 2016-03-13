@@ -6,4 +6,4 @@ rm *.gcov
 rm Makefile
 rm *.pro.user
 rm *.gcda
-rm qmake_gcov
+rm travis_qmake_gcc_cpp98_gcov
