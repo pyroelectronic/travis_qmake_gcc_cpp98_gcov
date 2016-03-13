@@ -1,11 +1,11 @@
-# qmake_gcov
+# travis_qmake_gcc_cpp98_gcov
 
 [![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ![Whitespace](Whitespace.png)
 [![Codecov logo](Codecov.png)](https://www.codecov.io)
 
-[![Build Status](https://travis-ci.org/richelbilderbeek/qmake_gcov.svg?branch=master)](https://travis-ci.org/richelbilderbeek/qmake_gcov)
-[![codecov.io](https://codecov.io/github/richelbilderbeek/qmake_gcov/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/qmake_gcov?branch=master)
+[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_gcov.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_gcov)
+[![codecov.io](https://codecov.io/github/richelbilderbeek/travis_qmake_gcc_cpp98_gcov/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/travis_qmake_gcc_cpp98_gcov?branch=master)
 
 
 The goal of this project is to have a clean Travis CI build, with specs:
