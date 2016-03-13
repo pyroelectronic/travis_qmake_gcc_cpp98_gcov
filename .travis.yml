@@ -1,14 +1,6 @@
 sudo: true
 language: cpp
-
-compiler:
-  - gcc
-
-before_install:
-  - sudo pip install codecov
-
-script: 
- - ./build.sh
-
-after_success:
-  - codecov
+compiler: gcc
+before_install: sudo pip install codecov
+script: ./build.sh
+after_success: codecov
