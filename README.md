@@ -7,6 +7,7 @@
 [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_gcov.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_gcov)
 [![codecov.io](https://codecov.io/github/richelbilderbeek/travis_qmake_gcc_cpp98_gcov/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/travis_qmake_gcc_cpp98_gcov?branch=master)
 
+This GitHub is part of [the Travis C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial).
 
 The goal of this project is to have a clean Travis CI build, with specs:
  * C++ version: `C++98`
