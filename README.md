@@ -14,9 +14,11 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Build system: `qmake`
  * C++ compiler: `g++`
  * Libraries: `STL` only
- * Code coverage: `gcov` (note: it *should* show the code coverage is not 100%)
- * Source: one single file, `main.cpp`
+ * Code coverage: `gcov` (note: it should show the code coverage is below 100%)
+ * Source: multiple files
+
+Additionally, the code coverage should be measured by CodeCov.
 
 More complex builds:
- * C++ version: `C++11`: [cpp11_qmake_gcov](https://www.github.com/richelbilderbeek/cpp11_qmake_gcov)
- * Source: multiple files: [qmake_gcov_bigger_project](https://www.github.com/richelbilderbeek/qmake_gcov_bigger_project)
+ * C++11: [travis_qmake_gcc_cpp11_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp11_gcov)
+ * C++14: [travis_qmake_gcc_cpp14_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_gcov)
