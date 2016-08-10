@@ -20,5 +20,6 @@ The goal of this project is to have a clean Travis CI build, with specs:
 Additionally, the code coverage should be measured by CodeCov.
 
 More complex builds:
+ * Add Boost.Test: [travis_qmake_gcc_cpp98_boost_test_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_boost_test_gcov)
  * C++11: [travis_qmake_gcc_cpp11_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp11_gcov)
  * C++14: [travis_qmake_gcc_cpp14_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_gcov)
