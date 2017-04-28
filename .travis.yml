@@ -6,10 +6,11 @@ before_install:
  - sudo pip install codecov
 
 script: 
- - ./build.sh
+ - qmake travis_qmake_gcc_cpp98_gcov.pro
+ - make
  - ./travis_qmake_gcc_cpp98_gcov
- - ./get_code_cov.sh
+ - ./get_code_cov
  - codecov
 
 after_success:
-  - bash <(curl -s https://codecov.io/bash)
+ - bash <(curl -s https://codecov.io/bash)
