@@ -5,6 +5,9 @@ compiler: gcc
 
 before_install: 
  - sudo pip install codecov
+ 
+ codecov:
+  token: 0ebcda90-8407-4d36-8abc-2b78d647f1d3
 
 script: 
  - qmake travis_qmake_gcc_cpp98_gcov.pro
